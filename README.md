@@ -1,6 +1,7 @@
 # hello-world
 This is my first repository
-***and this is my first commit***
+***and this is my first commit***.
+The idea behind this READ ME file is to experiment all the different features of github.
 # H1 This is heading #1
 ## H2 This is heading #2
 ### H3 This is heading #3 (❁´◡`❁)
@@ -15,9 +16,7 @@ and new
 
 `Remember to use backticks and not apostrophes`
 
-  <html>
-    <head>
-      <shoulders>
-      </shoulders>
-    </head>
-  </html>
+	hello
+	again
+	friend
+		of a friend
