@@ -1,7 +1,12 @@
 # hello-world
 This is my first repository
-***and this is my first commit***.
+***and this is my first commit***. I want to see the differences.
 The idea behind this READ ME file is to experiment all the different features of github.
+
+Here's a useful *link*.
+That is so funny! :joy:
+
+This is the *[Markdown Guide](https://www.markdownguide.org/cheat-sheet/ "Just click on it")*.
 
 ___
 
