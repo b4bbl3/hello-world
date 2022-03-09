@@ -2,9 +2,12 @@
 This is my first repository
 ***and this is my first commit***.
 The idea behind this READ ME file is to experiment all the different features of github.
-# H1 This is heading #1
-## H2 This is heading #2
-### H3 This is heading #3 (❁´◡`❁)
+
+___
+
+# This is heading #1
+## This is heading #2
+### This is heading #3 (❁´◡`❁)
 
 All this is really interesting
 and new
@@ -20,3 +23,7 @@ and new
 	again
 	friend
 		of a friend
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
